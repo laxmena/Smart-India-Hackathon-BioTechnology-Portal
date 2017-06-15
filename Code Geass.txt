@@ -1,0 +1,25 @@
+Team Name: Code Geass
+
+Title of the Idea: Biotechnology Industrial Training Programme App
+
+i4c id: 5689
+
+Team Leader: Lakshmanan Meiyappan
+Team member 1: Manochandar A
+Team member 2: Mohan Kumar R
+Team member 3: Naga Vignesh N
+Team member 4: Pratul Palaniappa M
+Team member 5: Sundar B
+
+Tech-Stack : Django_REST FRAMEWORK
+	        Django
+	        Python 3.6
+	        Java
+	        Android
+	        Ionic Framework
+	        Angular JS
+		NodeJS
+		Cordova
+       	       MySQL/SQLite
+
+College Name: Bannari Amman Institute of Technology
